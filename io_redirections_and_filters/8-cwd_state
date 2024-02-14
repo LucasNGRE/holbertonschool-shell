@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "afficher les fichiers, d'inclure les fichiers cachÃs en utilisant un format d'affichage long" > ls_cwd_content
+echo "afficher fichier caches et en long format" > ls_cwd_content
