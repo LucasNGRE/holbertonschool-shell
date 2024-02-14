@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "afficher fichier caches et en long format" > ls_cwd_content
+echo "find ls -la" > ls_cwd_content
